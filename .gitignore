@@ -2,7 +2,8 @@
 /*.exe
 /*.pdb
 /*.o
-# TODO: add output name here
+libxev
+xev
 # LLVM IR
 /*.ll
 # Taskfile checksums
