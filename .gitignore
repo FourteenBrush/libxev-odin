@@ -2,7 +2,6 @@
 /*.exe
 /*.pdb
 /*.o
-libxev
 xev
 # LLVM IR
 /*.ll
