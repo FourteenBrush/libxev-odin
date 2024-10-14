@@ -4,6 +4,8 @@ https://github.com/mitchellh/libxev/tree/main
 
 Static libs can be found in `lib` and are generated with `zig build -Doptimize=ReleaseSmall`
 
+TODO: windows support
+
 Example usage (prints `timer_callback` every second):
 
 ```go
